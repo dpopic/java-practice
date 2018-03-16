@@ -2,6 +2,9 @@ package hr.popic.danijel.javapractice.assignments;
 
 import hr.popic.danijel.javapractice.util.BaseFunctionality;
 
+/**
+ * Examples with loops (for, while, do-while).
+ */
 public class LoopsAssignments extends BaseFunctionality {
 
 	/**

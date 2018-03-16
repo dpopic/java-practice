@@ -3,7 +3,11 @@ package hr.popic.danijel.javapractice.util;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-@SuppressWarnings("resource")
+/**
+ * Class contains methods for inputing data from keyboard and for formating the
+ * numbers.
+ */
+@SuppressWarnings("resource") // ignore scanner.close() while we are learning java
 public class BaseFunctionality {
 
 	/**
@@ -86,7 +90,7 @@ public class BaseFunctionality {
 	 */
 	protected static String inputText() {
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("Enter text:");
+		System.out.print("Enter text: ");
 		String text = scanner.nextLine();
 		return text;
 	}

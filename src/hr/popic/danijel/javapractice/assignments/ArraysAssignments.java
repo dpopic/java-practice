@@ -5,6 +5,9 @@ import java.util.stream.DoubleStream;
 
 import hr.popic.danijel.javapractice.util.BaseFunctionality;
 
+/**
+ * Examples with arrays.
+ */
 public class ArraysAssignments extends BaseFunctionality {
 
 	/**
