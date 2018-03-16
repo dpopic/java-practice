@@ -8,13 +8,13 @@ For now project contains solved assignments for:
 * Arrays
 * Strings
 
-## What to do
+## Instructions
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install and how to install them if you wish to run the project.
+These things you need to install if you wish to run the project.
 
 Java IDE
 * This project was made in [Eclipse](https://www.eclipse.org/downloads/) so please install it.
@@ -66,4 +66,4 @@ ArraysAssignments.assignment9();
 
 ## Other stuff
 
-More examples for variables and conditions can be found [here](https://www.w3resource.com/java-exercises/string/index.php)
+More examples for variables and conditions can be found [here](https://www.w3resource.com/java-exercises/index.php)
