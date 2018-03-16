@@ -10,11 +10,11 @@ For now project contains solved assignments for:
 
 ## Instructions
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-These things you need to install if you wish to run the project.
+You need to install stuff below if you wish to run the project.
 
 Java IDE
 * This project was made in [Eclipse](https://www.eclipse.org/downloads/) so please install it.
@@ -28,7 +28,7 @@ Java Runtime and Java SDK:
 
 ### Downloading the project
 
-Please follow these steps if you are new to github and Eclipse
+Please follow these steps if you are new to github and Eclipse.
 
 ```
 1. Go up on this page and find green button "Clone or download"
