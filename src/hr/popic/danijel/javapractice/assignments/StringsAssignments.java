@@ -1,10 +1,7 @@
 package hr.popic.danijel.javapractice.assignments;
 
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
-
-import javax.swing.plaf.FontUIResource;
 
 import hr.popic.danijel.javapractice.util.BaseFunctionality;
 
@@ -13,6 +10,7 @@ public class StringsAssignments extends BaseFunctionality {
 	/**
 	 * Input an sentence. Print the sentence length without using method length();
 	 */
+	@SuppressWarnings("unused")
 	public static void assignment1() {
 		String s = inputText();
 		char[] stringAsCharArray = s.toCharArray();
@@ -113,7 +111,7 @@ public class StringsAssignments extends BaseFunctionality {
 		String s1 = inputText("Enter 1. sentence: ");
 		String s2 = inputText("Enter 2. sentence: ");
 
-		System.out.println("Total = " + (s1.length() + s1.length()));
+		System.out.println("Total = " + (s1.length() + s2.length()));
 	}
 
 	/**
@@ -308,7 +306,7 @@ public class StringsAssignments extends BaseFunctionality {
 
 	/**
 	 * Helper method which recursively removes all non-letters from StringBuilder
-	 * and then returns it string value.
+	 * and then returns it's string value.
 	 * 
 	 * @param sb
 	 *            containing sentence.
