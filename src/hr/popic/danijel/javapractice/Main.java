@@ -17,9 +17,9 @@ public class Main {
 	// CTRL + 7 => Comments/Uncomments currently selected line(s)
 	
 	public static void main(String[] args) {
-		StringsAssignments.assignment16(); 
-		// ConditionsAssignments.assignment4();
-		// LoopsAssignments.assignment1();
+		// StringsAssignments.assignment1(); 
+		// ConditionsAssignments.assignment1();
+		 LoopsAssignments.assignment9();
 		// ArraysAssignments.assignment1();
 		
 	}
