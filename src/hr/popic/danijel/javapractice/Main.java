@@ -10,14 +10,18 @@ import hr.popic.danijel.javapractice.assignments.StringsAssignments;
 public class Main {
 
 	// Some shortcuts:
+	// CTRL + Space => Autocomplete
+	// CTRL + S => Save changes in current file
 	// CTRL + Shift + O => Fix imports
 	// CTRL + Shift + F => Format code
+	// CTRL + 7 => Comments/Uncomments currently selected line(s)
 	
 	public static void main(String[] args) {
-		StringsAssignments.assignment4();
+		StringsAssignments.assignment16(); 
 		// ConditionsAssignments.assignment4();
 		// LoopsAssignments.assignment1();
 		// ArraysAssignments.assignment1();
+		
 	}
 
 }

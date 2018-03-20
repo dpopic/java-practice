@@ -54,8 +54,9 @@ how to import
 Pressing green button should run the project normally. 
 
 If there is trouble, try:
-1. Right click on the project in Package Explorer (left pane)
-2. Select option "Run As" -> "Java application"
+1. Go to "Project" -> "Clean..." and perform project clean
+2. Right click on the project in Package Explorer (left pane)
+3. Select option "Run As" -> "Java application"
 
 Class Main contains main method which will be executed when we run the program. In main method we call methods from other classes depending on what we wish to execute. All methods are public (visible everywhere) & static (access goes through class name). For example, if we wish to run assignment 9 from Arrays we would call the method through class name: 
 ```
@@ -66,4 +67,4 @@ ArraysAssignments.assignment9();
 
 ## Other stuff
 
-More examples for variables and conditions can be found [here](https://www.w3resource.com/java-exercises/index.php)
+More examples for variables and conditions can be found [here](https://www.w3resource.com/java-exercises/index.php).
